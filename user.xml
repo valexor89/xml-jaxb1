@@ -1,0 +1,12 @@
+﻿<user>
+  <id />
+  <firstName />
+  <lastName />
+  <website />
+  <email>
+    <mittente />
+    <destinario />
+    <oggetto />
+    <testo />
+  </email>
+</user>

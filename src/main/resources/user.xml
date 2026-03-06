@@ -1,0 +1,12 @@
+﻿<user>
+  <id>1</id>
+  <firstName>Francesco</firstName>
+  <lastName> Rossi</lastName>
+  <website>https://www.francescorossi.com</website>
+  <email>
+    <mittente>francesco.rossi@domain.com</mittente>
+    <destinatario>user@domain.com</destinatario>
+    <oggetto>Buongiorno</oggetto>
+    <testo>Ciao, come stai?</testo>
+  </email>
+</user>
